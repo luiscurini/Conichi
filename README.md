@@ -10,4 +10,4 @@ Libraries used
 * Mockito
 * Glide
 
-
+To run the project, just clone or download this repository and import it on Android Studio. There might be issues with file path and .iml files, just click on remove selected files. 
